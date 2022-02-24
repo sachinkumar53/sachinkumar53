@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sachinkumar53
+- 👋 Hi, I’m Sachin
 - 👀 I’m interested in Android App Development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on android projects.
