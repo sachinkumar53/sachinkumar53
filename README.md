@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sachin
 - 👀 I’m interested in Android App Development
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on android projects.
 - 📫 Mail me kr771.sachin@gmail.com
 
